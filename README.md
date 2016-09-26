@@ -9,7 +9,7 @@ Link to my CS 290 page: `http://web.engr.oregonstate.edu/~devitod/`
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
-## 1. Sign up for Piazza
+## 1. Sign up for PiazzaA
 
 Use this link to sign up for CS 290 on Piazza using your ONID email address: https://piazza.com/oregonstate/fall2016/cs290
 
